@@ -1,2 +1,2 @@
 # Image-Slider
-A simple image slider with parallax effect and smooth horizontal scrolling
+A simple image slider with parallax effect and smooth horizontal scrolling.
